@@ -1,4 +1,4 @@
-# tentonone-analysis
+# Ten to None Data Analysis
 
 vizualization.ipynb shows all of the data analysis and the creation of the composite faces. Each of the composite faces are saved under the "composites" folder. The composite_main.jpg and the composite_woman.jpg in the root folder are the composites of ALL faces in the dataset. Lastly, the test_image_composite.jpg is the composite of just Joe Biden, Adele, and 50 Cent.
 
